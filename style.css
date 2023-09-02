@@ -1,0 +1,18 @@
+.li-navbar {
+    border: 2px solid red;
+    background-color: black;
+    padding: 20px;
+    margin: 5px;
+    color: white;
+}
+
+.li-navbar:hover{
+    background-color: red;
+    transition: .2s ease-in-out;
+    border-radius: 8px;
+}
+
+.a-navbar{
+    color: white;
+    text-decoration: none;
+}
